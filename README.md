@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mainlyrogue/mainlyrogue/.github/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mainlyrogue/mainlyrogue/.github/snake.yml" alt="Snake animation" />
 
 ###
