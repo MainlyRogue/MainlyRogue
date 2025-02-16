@@ -1,3 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mainlyrogue.mainlyrogue&left_color=slategrey&right_color=steelblue"  />
+
+###
+
 <img align="right" height="150" src="https://media.discordapp.net/attachments/1340087849969647629/1340140281210736751/output-onlinepngtools.png?ex=67b14665&is=67aff4e5&hm=3c7776aabbc2eb3961efede6cd7a5421940191d97414d6ed12de61f28da711a3&=&format=webp&quality=lossless"  />
 
 ###
@@ -16,8 +20,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -27,8 +29,6 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
 </div>
 
 ###
