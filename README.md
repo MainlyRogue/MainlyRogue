@@ -1,11 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mainlyrogue.mainlyrogue&left_color=slategrey&right_color=steelblue"  />
-
-###
-
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1340087849969647629/1340140281210736751/output-onlinepngtools.png?ex=67b14665&is=67aff4e5&hm=3c7776aabbc2eb3961efede6cd7a5421940191d97414d6ed12de61f28da711a3&=&format=webp&quality=lossless"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mainlyrogue&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mainlyrogue&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
